@@ -1,0 +1,89 @@
+Part 1: 
+-----------------------------------------------------------------
+
+Introduction 
+What is needed to execute .js file
+Which is the simplest Javascript program
+What are the different phases involved in execution of a .js file
+What is Global execution context, functional execution context, call stack
+What is window, this and when are they created 
+
+	Note: What is the relationship between global variables created to window and this keyword. 
+
+Hoisting 
+Considering var 
+Considering let and const 
+What is TDZ or Temporal dead zone ?  
+Difference between var, let and const 
+Difference between undefined and not defined 
+Difference between == and ===
+
+Lexical Scope
+Closures 
+
+Function Borrowing using call, apply and bind
+
+Functions: 
+
+Function statement
+Function expression
+Parameterized Functions
+Non-Parameterized Functions
+Anonymous Function
+IIFE
+Call back function
+Higher Order function
+
+Ternary Operators
+Template Literals
+
+-----------------------------------------------------------------
+Part 2: 
+
+Asynchronous Programming in JavaScript: 
+
+Console all methods
+Blocking statements or synchronous code
+Non-blocking statements or asynchronous code
+SetTimeout and clearTimeout
+SetInterval and clearInterval
+
+Call-back Hell
+Promises in JavaScript
+Async and Await in JS
+
+-----------------------------------------------------------------
+Part 3: 
+
+Strings
+Arrays
+Objects & Class
+OOPS in JS
+Prototype and Prototypal Inheritance
+
+Loops in JS for Objects and Arrays
+
+Fetch & Axois - For testing backend microservices/api's
+
+Difference between Axois(Its an external plugin which needs to be installed) and Fetch(Browser API)
+
+Note: When to use which loop should be covered as part of this
+
+-----------------------------------------------------------------
+Part 4: 
+
+Coding Interview Questions: 100 Questions
+
+1. Primitive Data types related
+2. Strings related with using in-built methods
+3. Strings related without using in-built methods
+4. Arrays related
+5. Objects related
+6. Functions related
+7. Loops related 
+
+-----------------------------------------------------------------
+
+
+
+

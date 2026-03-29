@@ -1,0 +1,31 @@
+1. Introduction
+2. All about JE, Call Stack, Phase of execution of a JS file
+3. Hoisting of variable using var keyword and Function 
+    a. Hoisting of variable using keyword let and const - TDZ: Temporal Dead Zone
+4. Difference let, var, const
+    a. Shortest JavaScript program
+5. Block scope, Function scope and Global scope
+6. Lexical scope
+7. Closures
+8. All types of console methods
+9. What are Promise and where they come into picture in JavaScript
+10. setTimeout, clearTimeout, setInterval, clearInterval
+11. Function borrowing using call(), apply() and bind() 
+12. Template literals, String interpolation
+13. Functions
+    a. Function Declaration or Function statement
+    b. Function Expression
+    c. Parameterized Function
+    d. Non-Parameterized Function
+    e. Anonymous Function
+    f. IIFE (Immediatly Invoked Function Expression)
+    g. Nested Functions 
+    h. Argument and Parameters in Functions
+    i. Function returning a value and Function not returning a value 
+14. Arrow Function
+    a. Implementing arrow function with all types of function implementation within
+        like function returning a value, function performing a task something like this. 
+15. Difference between undefined, not defined
+16. Difference between null and 0
+
+
