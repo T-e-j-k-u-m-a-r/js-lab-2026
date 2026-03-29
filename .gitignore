@@ -1,0 +1,3 @@
+# Exclude node modules entire folder
+/node_modules
+

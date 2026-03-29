@@ -1,0 +1,23 @@
+{
+  "name": "js-lab-2026",
+  "version": "1.0.0",
+  "description": "js-lab-2026",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-e-j-k-u-m-a-r/js-lab-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T-e-j-k-u-m-a-r/js-lab-2026/issues"
+  },
+  "homepage": "https://github.com/T-e-j-k-u-m-a-r/js-lab-2026#readme",
+  "devDependencies": {
+    "axios": "^1.13.6"
+  }
+}
