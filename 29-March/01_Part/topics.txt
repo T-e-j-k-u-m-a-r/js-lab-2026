@@ -11,7 +11,7 @@
 9. What are Promise and where they come into picture in JavaScript
 10. setTimeout, clearTimeout, setInterval, clearInterval
 11. Function borrowing using call(), apply() and bind() 
-12. Template literals, String interpolation
+12. Template literals or String interpolation and Ternary Operators
 13. Functions
     a. Function Declaration or Function statement
     b. Function Expression
@@ -22,6 +22,8 @@
     g. Nested Functions 
     h. Argument and Parameters in Functions
     i. Function returning a value and Function not returning a value 
+    j. call back function
+    k. Higher order function 
 14. Arrow Function
     a. Implementing arrow function with all types of function implementation within
         like function returning a value, function performing a task something like this. 

@@ -2,3 +2,11 @@
 2. Object & Class
 3. Prototype & OOPs
 4. Strings
+
+--------------------------------
+1. Array all methods
+2. Object and Class 
+    Object level methods
+3. Strings & all Strings methods
+4. Prototype and Prototype Inheritence
+
