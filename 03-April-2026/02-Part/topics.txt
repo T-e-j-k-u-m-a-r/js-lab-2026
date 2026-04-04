@@ -1,0 +1,9 @@
+Asynchronous operations in JavaScript
+
+0. Explain Event loop using below topic
+    a. setTimeout, setInterval, 2 console.log() methods 
+1. Explain the concept of Promise in JavaScript
+2. Callback hell
+3. Promise
+4. Async and await
+
